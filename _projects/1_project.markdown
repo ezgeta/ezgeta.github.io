@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bivalves: Archives of environmental Change 
+title: BivACME 
 description: Role - Researcher
 img: /assets/img/BivACME.jpg
 importance: 1
