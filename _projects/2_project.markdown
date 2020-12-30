@@ -19,12 +19,12 @@ Main objective of the project is to assess the impact of the invasive oyster spe
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/cocoa2.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
+
+In the Adriatic Sea non-native invasive oyster Crassostrea gigas started to spread and presents a threat to the native European flat oyster Ostrea edulis. Pacific oyster C. gigas was introduced by aquaculture to Mediterranean Sea in the 1960s as a response to the decrease of O. edulis production caused by high mortalities due to parasitic diseases. Introduction of C. gigas was limited to the aquaculture sites, but as environmental conditions in those areas were favourable this species started to reproduce and spread outside aquaculture sites. Although C. gigas is used for aquaculture all along the Europe, in the eastern Adriatic Sea it is not the case, and it is considered an invasive species.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/cocoa3.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
