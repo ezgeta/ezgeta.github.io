@@ -28,7 +28,7 @@ My research focuses mainly on the different aspects of <b>biology and ecology of
 
 <p><b>Professional Experience:</b></p>
 
-<p>2018-           <b>Research associate</b></p>
-<p>2013-2018       Postdoctoral researcher</p>
-<p>2009-2013       PhD student</p>
-<p>2007-2009       Associate</p>
+<p>2018-now   Research associate</p>
+<p>2013-2018  Postdoctoral researcher</p>
+<p>2009-2013  PhD student</p>
+<p>2007-2009  Associate</p>
