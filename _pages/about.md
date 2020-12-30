@@ -13,13 +13,22 @@ profile:
     <p>Šetalište I. Meštrovića 63</p>
     <p>21000 Split, Croatia</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write yours  biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research focuses mainly on the different aspects of <b>biology and ecology of marine bivalves</b> that include: age and growth, reproduction, feeding physiology and possibilities of introducing new bivalve species in aquaculture. Recently, I started extending my research to the <b>marine trophic ecology</b> and <b>demersal fisheries</b>, mostly beam trawl fisheries.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<p><b>Education:</b></p>
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<p>2009-2013 PhD -  Applied Marine Sciences, University of Split, Croatia</p>
+
+<p>2001-2006	BSc/MSc - Marine Biology and Ecology, Center of Marine Studies, University of Split, Croatia</p>
+
+<p><b>Professional Experience:</b></p>
+
+<p>2018-           <b>Research associate</b></p>
+<p>2013-2018       Postdoctoral researcher</p>
+<p>2009-2013       PhD student</p>
+<p>2007-2009       Associate</p>
