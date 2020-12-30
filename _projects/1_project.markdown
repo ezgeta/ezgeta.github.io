@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bivalves: Archives of environmental Change in the coastal Marine Ecosystems
+title: Bivalves: Archives of environmental Change 
 description: Role - Researcher
 img: /assets/img/BivACME.jpg
 importance: 1
