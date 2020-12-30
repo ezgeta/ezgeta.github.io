@@ -1,7 +1,7 @@
 ---
 layout: page
-title: BivACME 
-description: Role - Researcher
+title: Role - Researcher
+description: Bivalves: Archives of environmental Change in the coastal Marine Ecosystems
 img: /assets/img/BivACME.jpg
 importance: 1
 ---
