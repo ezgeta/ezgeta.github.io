@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BivACME
+title: false
 description: Role - Researcher
 img: /assets/img/BivACME.jpg
 importance: 1
