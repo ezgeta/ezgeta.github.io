@@ -7,7 +7,7 @@ importance: 2
 ---
 Project title: Competition between native Ostrea edulis and invasive Crassostrea gigas oysters in the Adriatic Sea – effects on the ecosystem, fisheries and aquaculture
 
-Main objective of the project is to assess the impact of the invasive oyster species C. gigas on the ecosystem, fisheries and aquaculture, with focus on the native commercially important oyster species O. edulis.
+<p align=" justify">Main objective of the project is to assess the impact of the invasive oyster species C. gigas on the ecosystem, fisheries and aquaculture, with focus on the native commercially important oyster species O. edulis.</p>
 
 ---
 
@@ -20,7 +20,11 @@ Main objective of the project is to assess the impact of the invasive oyster spe
     </div>
 </div>
 
-In the Adriatic Sea non-native invasive oyster Crassostrea gigas started to spread and presents a threat to the native European flat oyster Ostrea edulis. Pacific oyster C. gigas was introduced by aquaculture to Mediterranean Sea in the 1960s as a response to the decrease of O. edulis production caused by high mortalities due to parasitic diseases. Introduction of C. gigas was limited to the aquaculture sites, but as environmental conditions in those areas were favourable this species started to reproduce and spread outside aquaculture sites. Although C. gigas is used for aquaculture all along the Europe, in the eastern Adriatic Sea it is not the case, and it is considered an invasive species.
+---
+
+<p align=" justify">In the Adriatic Sea non-native invasive oyster <i>Crassostrea gigas</i> started to spread and presents a threat to the native European flat oyster <i>Ostrea edulis</i>. Pacific oyster <i>C. gigas</i> was introduced by aquaculture to Mediterranean Sea in the 1960s as a response to the decrease of O. edulis production caused by high mortalities due to parasitic diseases. Introduction of <i>C. gigas</i> was limited to the aquaculture sites, but as environmental conditions in those areas were favourable this species started to reproduce and spread outside aquaculture sites. Although <i>C. gigas</i> is used for aquaculture all along the Europe, in the eastern Adriatic Sea it is not the case, and it is considered an invasive species.</p>
+
+---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
