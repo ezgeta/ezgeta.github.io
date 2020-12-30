@@ -5,9 +5,9 @@ description: Role - Principal Investigator
 img: /assets/img/cocoa.jpg
 importance: 2
 ---
-Project title: Competition between native Ostrea edulis and invasive Crassostrea gigas oysters in the Adriatic Sea – effects on the ecosystem, fisheries and aquaculture
+Project title: Competition between native <i>Ostrea edulis</i> and invasive <i>Crassostrea gigas</i> oysters in the Adriatic Sea – effects on the ecosystem, fisheries and aquaculture
 
-<p align=" justify">Main objective of the project is to assess the impact of the invasive oyster species C. gigas on the ecosystem, fisheries and aquaculture, with focus on the native commercially important oyster species O. edulis.</p>
+<p align=" justify">Main objective of the project is to assess the <b>impact of the invasive oyster species</b> <i>C. gigas</i> on the ecosystem, fisheries and aquaculture, with focus on the <b>native commercially important oyster species</b> <i>O. edulis</i>.</p>
 
 ---
 
