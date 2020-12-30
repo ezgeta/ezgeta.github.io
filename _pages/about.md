@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   address: >
     <p>Institute of Oceanography and Fisheries</p>
-    <p>Laboratory of Fisheries Science and Management of Pelagic and Demersal Resources</p>
+    <p><i>Laboratory of Fisheries Science and Management of Pelagic and Demersal Resources</i></p>
     <p>Šetalište I. Meštrovića 63</p>
     <p>21000 Split, Croatia</p>
 
