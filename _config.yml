@@ -50,8 +50,7 @@ publons_id: https://publons.com/researcher/2116517/daria-ezgeta-balic/ # your ID
 research_gate_profile: https://www.researchgate.net/profile/Daria_Ezgeta_Balic # your profile on ResearchGate
 blogger_url: # your blogger URL
 
-contact_note: >
-  Any questions - feel free to contact me using links above
+contact_note: #Any questions - feel free to contact me using links above
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
@@ -60,7 +59,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # -----------------------------------------------------------------------------
 
 blog_name: blog  # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_description: to be done 
 permalink: /blog/:year/:title/
 
 # Pagination
