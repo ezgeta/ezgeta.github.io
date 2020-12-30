@@ -36,7 +36,6 @@ Project title: Competition between native <i>Ostrea edulis</i> and invasive <i>C
 #</div>
 
 ---
-
 A lot of field and lab work were done during the project and based on collected dana papers about its distribution, abundance, reproduction and feeding ecology are published.
 
 ---
