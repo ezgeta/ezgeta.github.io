@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My research focuses mainly on the different aspects of <b>biology and ecology of marine bivalves</b> that include: age and growth, reproduction, feeding physiology and possibilities of introducing new bivalve species in aquaculture. Recently, I started extending my research to the <b>marine trophic ecology</b> and <b>demersal fisheries</b>, mostly beam trawl fisheries.
+<p align=" justify">My research focuses mainly on the different aspects of <b>biology and ecology of marine bivalves</b> that include: age and growth, reproduction, feeding physiology and possibilities of introducing new bivalve species in aquaculture. Recently, I started extending my research to the <b>marine trophic ecology</b> and <b>demersal fisheries</b>, mostly beam trawl fisheries.</p>
 
 <p><b>Education:</b></p>
 
