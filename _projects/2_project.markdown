@@ -33,14 +33,9 @@ Project title: Competition between native <i>Ostrea edulis</i> and invasive <i>C
 </div>
 
 ---
-A lot of field and lab work were done during the project and based on collected dana papers about its distribution, abundance, reproduction and feeding ecology are published.
+A lot of field and lab work were done during the project and based on collected dana papers about its <a href="https://hrcak.srce.hr/231314" target="_blank">distribution</a>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S1470160X20301709" target="_blank">abundance and a little bit of genetic</a>, <a href="https://ejournals.epublishing.ekt.gr/index.php/hcmr-med-mar-sc/article/view/21304" target="_blank">reproduction</a> and <a href="https://www.sciencedirect.com/science/article/abs/pii/S0141113620303226?via%3Dihub" target="_blank">feeding ecology</a> are published. <a href="http://jadran.izor.hr/~ezgeta/cocoa/" target="_blank">Here</a>  you can read more about COCOA project.
 
 ---
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/cocoa4.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-  
 
 </div>
