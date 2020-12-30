@@ -31,9 +31,6 @@ Project title: Competition between native <i>Ostrea edulis</i> and invasive <i>C
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/cocoa3.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
-#<div class="caption">
-    #This image can also have a caption. It's like magic.
-#</div>
 
 ---
 A lot of field and lab work were done during the project and based on collected dana papers about its distribution, abundance, reproduction and feeding ecology are published.
@@ -47,7 +44,5 @@ A lot of field and lab work were done during the project and based on collected 
     <div class="col-sm-4 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/cocoa5.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/cocoa6.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
+
 </div>
