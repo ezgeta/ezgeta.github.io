@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: /assets/img/12.jpg
+title: BivACME
+description: Role - Researcher
+img: /assets/img/BivACME.jpg
 importance: 1
 ---
+The main objective of the BivACME study is to identify how ecosystem change affects growth dynamics of bivalves inhabiting coastal environments in the Adriatic Sea.
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
