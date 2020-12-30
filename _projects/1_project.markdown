@@ -2,7 +2,7 @@
 layout: page
 title: BivACME
 description: Role - Researcher
-img: /assets/img/BivACME.jpg
+img: /assets/img/bivacme.jpg
 importance: 1
 ---
 <p align=" justify">The main objective of the BivACME study is to identify how ecosystem change affects growth dynamics of bivalves inhabiting coastal environments in the Adriatic Sea.</p>
